@@ -14,3 +14,12 @@ Neural Network
 Classification 
 Regression
 Tree Decision Analysis
+
+# Data Management 
+
+MS Power BI
+Decision Dashboards
+Benchmark Reporting
+
+# Data Visualization 
+Tableau
